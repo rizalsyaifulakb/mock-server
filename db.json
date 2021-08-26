@@ -1,10 +1,14 @@
-[
-  {
-    "id": 1,
-    "name": "Merchant1"
-  },
-  {
-    "id": 2,
-    "name": "Merchant2"
-  }
-]
+{
+  "merchants": [
+    {
+      "id": 1,
+      "name": "Merchant 1"
+    },
+    {
+      "id": 2,
+      "name": "Merchant2"
+    }
+  ]
+}
+
+
