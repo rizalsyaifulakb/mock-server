@@ -1,68 +1,70 @@
 {
-  "evaluate-promotion": {
-    "success": true,
-    "data": {
-      "title": "Promotion",
-      "promo_nudge": {
-        "title": "5 Promotions available",
-        "sub_title": "Save more by using promo",
-        "icon": "https://i-integration.gojekapi.com/darkroom/nearby-cms-id/v2/images/uploads/image/file/562/0b9001e0-c912-46a8-a74f-e44340e72172.png"
-      },
-      "inapplicability_nudge": {
-        "content": "Monthly cashback limit will be reset on 23 Sep 2023",
-        "icon": "1.png",
-        "cta_icon": "2.png",
-        "dialog_info": {
-          "title": "Can't receive cashback now",
-          "sub_title": "You already reached monthly cashback limit of Rp50.000",
-          "illustration": "illustration",
-          "cta_text": "Got it"
-        }
-      },
-      "applicable_promotion": {
-        "title": "Available promotions",
-        "sub_title": "Please select one of the promotions",
-        "promos": [
-          {
-            "title": "Get 50% Gopay Cashback",
-            "highlight": {
-              "text": "Running out soon"
-            },
-            "description": "You will receive <b>Rp5000</b> Gopay Coins",
-            "cta_button": {
-              "text": "More details",
-              "deeplink": "gojek: //promo?${promo-id}"
-            },
-            "applicable_payment_options": {
-              "text": "Only applicable for :",
-              "items": [
-                {
-                  "text": "Gopay",
-                  "icon": "gopay.png"
-                },
-                {
-                  "text": "GopayLater",
-                  "icon": "gopay.png"
-                }
-              ]
-            },
-            "cashback_amount": {
-              "currency": "IDR",
-              "value": 40000
-            },
-            "promo_id": "CASHBACK|6067fc53-509d-4671-86bc-0c7797aca13c|bb04a5c8-d84d-46b9-9a4a-3b58b95f1712|KFCC|2022-04-10|2022-04-11"
+  "v1": {
+    "evaluate-promotions": {
+      "success": true,
+      "data": {
+        "title": "Promotion",
+        "promo_nudge": {
+          "title": "5 Promotions available",
+          "sub_title": "Save more by using promo",
+          "icon": "https://i-integration.gojekapi.com/darkroom/nearby-cms-id/v2/images/uploads/image/file/562/0b9001e0-c912-46a8-a74f-e44340e72172.png"
+        },
+        "inapplicability_nudge": {
+          "content": "Monthly cashback limit will be reset on 23 Sep 2023",
+          "icon": "1.png",
+          "cta_icon": "2.png",
+          "dialog_info": {
+            "title": "Can't receive cashback now",
+            "sub_title": "You already reached monthly cashback limit of Rp50.000",
+            "illustration": "illustration",
+            "cta_text": "Got it"
           }
+        },
+        "applicable_promotion": {
+          "title": "Available promotions",
+          "sub_title": "Please select one of the promotions",
+          "promos": [
+            {
+              "title": "Get 50% Gopay Cashback",
+              "highlight": {
+                "text": "Running out soon"
+              },
+              "description": "You will receive <b>Rp5000</b> Gopay Coins",
+              "cta_button": {
+                "text": "More details",
+                "deeplink": "gojek: //promo?${promo-id}"
+              },
+              "applicable_payment_options": {
+                "text": "Only applicable for :",
+                "items": [
+                  {
+                    "text": "Gopay",
+                    "icon": "gopay.png"
+                  },
+                  {
+                    "text": "GopayLater",
+                    "icon": "gopay.png"
+                  }
+                ]
+              },
+              "cashback_amount": {
+                "currency": "IDR",
+                "value": 40000
+              },
+              "promo_id": "CASHBACK|6067fc53-509d-4671-86bc-0c7797aca13c|bb04a5c8-d84d-46b9-9a4a-3b58b95f1712|KFCC|2022-04-10|2022-04-11"
+            }
+          ]
+        },
+        "in_applicable_promotion": {
+          "title": "Available promotions",
+          "sub_title": "Please select one of the promotions",
+          "promos": []
+        },
+        "refetch_promotions_for_methods": [
+          "GOPAY",
+          "GOPAY_COINS"
         ]
-      },
-      "in_applicable_promotion": {
-        "title": "Available promotions",
-        "sub_title": "Please select one of the promotions",
-        "promos": []
-      },
-      "refetch_promotions_for_methods": [
-        "GOPAY",
-        "GOPAY_COINS"
-      ]
+      }
     }
   }
 }
