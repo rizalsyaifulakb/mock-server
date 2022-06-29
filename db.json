@@ -4,9 +4,20 @@
     "data": {
       "title": "Promotion",
       "promo_nudge": {
-        "text": "5 Promotions available",
+        "title": "5 Promotions available",
         "sub_title": "Save more by using promo",
         "icon": "https://i-integration.gojekapi.com/darkroom/nearby-cms-id/v2/images/uploads/image/file/562/0b9001e0-c912-46a8-a74f-e44340e72172.png"
+      },
+      "inapplicability_nudge": {
+        "content": "Monthly cashback limit will be reset on 23 Sep 2023",
+        "icon": "1.png",
+        "cta_icon": "2.png",
+        "dialog_info": {
+          "title": "Can't receive cashback now",
+          "sub_title": "You already reached monthly cashback limit of Rp50.000",
+          "illustration": "illustration",
+          "cta_text": "Got it"
+        }
       },
       "applicable_promotion": {
         "title": "Available promotions",
