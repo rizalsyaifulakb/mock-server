@@ -9,9 +9,9 @@
         "icon": "https://i-integration.gojekapi.com/darkroom/nearby-cms-id/v2/images/uploads/image/file/562/0b9001e0-c912-46a8-a74f-e44340e72172.png"
       },
       "inapplicability_nudge": {
-        "content": "Monthly cashback limit will be reset on 23 Sep 2023",
-        "icon": "1.png",
-        "cta_icon": "2.png",
+        "content": "Monthly cashback limit will be reset on <b>23 Sep 2023</b>",
+        "icon": "foodMiniSpotMerchant",
+        "cta_icon": "label24Help",
         "dialog_info": {
           "title": "Can't receive cashback now",
           "sub_title": "You already reached monthly cashback limit of Rp50.000",
@@ -25,7 +25,7 @@
         "promos": [
           {
             "title": "Get 50% Gopay Cashback",
-            "description": "Receive <b>Rp5000</b> Gopay Coins. ",
+            "description": "Receive <b>Rp5000</b> Gopay Coins.",
             "cta_button": {
               "text": "More details",
               "deeplink": "gopay://promo/details?promo_id=DERMAWAN:b0dfac25-7d7a-4578-bab5-e33d3cfcba34:d3cc4838-177b-4769-a7cb-249cb214d4a0"
@@ -54,7 +54,7 @@
             "highlight": {
               "text": "Running out soon"
             },
-            "description": "You will receive <b>Rp5000</b> Gopay Coins. ",
+            "description": "You will receive <b>Rp5000</b> Gopay Coins.",
             "cta_button": {
               "text": "More details",
               "deeplink": "gopay://promo/details?promo_id=DERMAWAN:b0dfac25-7d7a-4578-bab5-e33d3cfcba34:d3cc4838-177b-4769-a7cb-249cb214d4a0"
@@ -80,7 +80,7 @@
           },
           {
             "title": "Get 50% Gopay Cashback",
-            "description": "You will receive <b>Rp5000</b> Gopay Coins. ",
+            "description": "You will receive <b>Rp5000</b> Gopay Coins.",
             "cta_button": {
               "text": "More details",
               "deeplink": "gojek: //promo?promo-id}"
@@ -109,7 +109,7 @@
             "highlight": {
               "text": "Running out soon"
             },
-            "description": "You will receive <b>Rp5000</b> Gopay Coins. ",
+            "description": "You will receive <b>Rp5000</b> Gopay Coins.",
             "cta_button": {
               "text": "More details",
               "deeplink": "gojek: //promo?promo-id}"
@@ -135,7 +135,7 @@
           },
           {
             "title": "Get 50% Gopay Cashback",
-            "description": "You will receive <b>Rp5000</b> Gopay Coins. ",
+            "description": "You will receive <b>Rp5000</b> Gopay Coins.",
             "cta_button": {
               "text": "More details",
               "deeplink": "gojek: //promo?promo-id}"
@@ -169,7 +169,7 @@
             "highlight": {
               "text": "Running out soon"
             },
-            "description": "You will receive <b>Rp5000</b> Gopay Coins. ",
+            "description": "You will receive <b>Rp5000</b> Gopay Coins.",
             "cta_button": {
               "text": "More details",
               "deeplink": "gopay://promo/details?promo_id=DERMAWAN:b0dfac25-7d7a-4578-bab5-e33d3cfcba34:d3cc4838-177b-4769-a7cb-249cb214d4a0"
@@ -195,7 +195,7 @@
           },
           {
             "title": "Get 50% Gopay Cashback",
-            "description": "You will receive <b>Rp5000</b> Gopay Coins. ",
+            "description": "You will receive <b>Rp5000</b> Gopay Coins.",
             "cta_button": {
               "text": "More details",
               "deeplink": "gojek: //promo?promo-id}"
@@ -221,7 +221,7 @@
           },
           {
             "title": "Get 50% Gopay Cashback",
-            "description": "You will receive <b>Rp5000</b> Gopay Coins. ",
+            "description": "You will receive <b>Rp5000</b> Gopay Coins.",
             "cta_button": {
               "text": "More details",
               "deeplink": "gojek: //promo?promo-id}"
@@ -247,7 +247,7 @@
           },
           {
             "title": "Get 50% Gopay Cashback",
-            "description": "You will receive <b>Rp5000</b> Gopay Coins. ",
+            "description": "You will receive <b>Rp5000</b> Gopay Coins.",
             "cta_button": {
               "text": "More details",
               "deeplink": "gojek: //promo?promo-id}"
