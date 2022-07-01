@@ -106,32 +106,6 @@
               "value": 40000
             },
             "promo_id": "CASHBACK|6067fc53-509d-4671-86bc-0c7797aca13c|bb04a5c8-d84d-46b9-9a4a-3b58b95f1712|KFCC|2022-04-10|2022-04-14"
-          },
-          {
-            "title": "Get 50% Gopay Cashback",
-            "description": "You will receive <b>Rp5000</b> Gopay Coins.",
-            "cta_button": {
-              "text": "More details",
-              "deeplink": "gojek: //promo?promo-id}"
-            },
-            "applicable_payment_options": {
-              "text": "Only applicable for :",
-              "items": [
-                {
-                  "text": "Gopay",
-                  "icon": "gopay.png"
-                },
-                {
-                  "text": "GopayLater",
-                  "icon": "gopay.png"
-                }
-              ]
-            },
-            "cashback_amount": {
-              "currency": "IDR",
-              "value": 40000
-            },
-            "promo_id": "CASHBACK|6067fc53-509d-4671-86bc-0c7797aca13c|bb04a5c8-d84d-46b9-9a4a-3b58b95f1712|KFCC|2022-04-10|2022-04-15"
           }
         ]
       },
@@ -166,32 +140,6 @@
               "value": 40000
             },
             "promo_id": "CASHBACK|6067fc53-509d-4671-86bc-0c7797aca13c|bb04a5c8-d84d-46b9-9a4a-3b58b95f1712|KFCC|2022-04-10|2022-04-16"
-          },
-          {
-            "title": "Get 50% Gopay Cashback",
-            "description": "You will receive <b>Rp5000</b> Gopay Coins.",
-            "cta_button": {
-              "text": "More details",
-              "deeplink": "gojek: //promo?promo-id}"
-            },
-            "applicable_payment_options": {
-              "text": "Only applicable for :",
-              "items": [
-                {
-                  "text": "Gopay",
-                  "icon": "gopay.png"
-                },
-                {
-                  "text": "GopayLater",
-                  "icon": "gopay.png"
-                }
-              ]
-            },
-            "cashback_amount": {
-              "currency": "IDR",
-              "value": 40000
-            },
-            "promo_id": "CASHBACK|6067fc53-509d-4671-86bc-0c7797aca13c|bb04a5c8-d84d-46b9-9a4a-3b58b95f1712|KFCC|2022-04-10|2022-04-19"
           },
           {
             "title": "Get 50% Gopay Cashback",
