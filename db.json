@@ -28,7 +28,7 @@
             "description": "Receive <b>Rp5000</b> Gopay Coins.",
             "cta_button": {
               "text": "More details",
-              "deeplink": "gopay://promo/details?promo_id=DERMAWAN:b0dfac25-7d7a-4578-bab5-e33d3cfcba34:d3cc4838-177b-4769-a7cb-249cb214d4a0"
+              "deeplink": "gopay://promo/details?promo_id=DERMAWAN:5ed0b058-e907-43a6-acbc-358629d14f04:3b0037c5-cfe7-4d6b-a19a-ceec8f2bc6eb"
             },
             "applicable_payment_options": {
               "text": "Only applicable for :",
@@ -57,7 +57,7 @@
             "description": "You will receive <b>Rp5000</b> Gopay Coins.",
             "cta_button": {
               "text": "More details",
-              "deeplink": "gopay://promo/details?promo_id=DERMAWAN:b0dfac25-7d7a-4578-bab5-e33d3cfcba34:d3cc4838-177b-4769-a7cb-249cb214d4a0"
+              "deeplink": "gopay://promo/details?promo_id=DERMAWAN:5ed0b058-e907-43a6-acbc-358629d14f04:3b0037c5-cfe7-4d6b-a19a-ceec8f2bc6eb"
             },
             "applicable_payment_options": {
               "text": "Only applicable for :",
@@ -86,7 +86,7 @@
             "description": "You will receive <b>Rp5000</b> Gopay Coins.",
             "cta_button": {
               "text": "More details",
-              "deeplink": "gojek: //promo?promo-id}"
+              "deeplink": "gopay://promo/details?promo_id=DERMAWAN:5ed0b058-e907-43a6-acbc-358629d14f04:3b0037c5-cfe7-4d6b-a19a-ceec8f2bc6eb"
             },
             "applicable_payment_options": {
               "text": "Only applicable for :",
@@ -120,7 +120,7 @@
             "description": "You will receive <b>Rp5000</b> Gopay Coins.",
             "cta_button": {
               "text": "More details",
-              "deeplink": "gopay://promo/details?promo_id=DERMAWAN:b0dfac25-7d7a-4578-bab5-e33d3cfcba34:d3cc4838-177b-4769-a7cb-249cb214d4a0"
+              "deeplink": "gopay://promo/details?promo_id=DERMAWAN:5ed0b058-e907-43a6-acbc-358629d14f04:3b0037c5-cfe7-4d6b-a19a-ceec8f2bc6eb"
             },
             "applicable_payment_options": {
               "text": "Only applicable for :",
@@ -146,7 +146,7 @@
             "description": "You will receive <b>Rp5000</b> Gopay Coins.",
             "cta_button": {
               "text": "More details",
-              "deeplink": "gojek: //promo?promo-id}"
+              "deeplink": "gopay://promo/details?promo_id=DERMAWAN:5ed0b058-e907-43a6-acbc-358629d14f04:3b0037c5-cfe7-4d6b-a19a-ceec8f2bc6eb"
             },
             "applicable_payment_options": {
               "text": "Only applicable for :",
