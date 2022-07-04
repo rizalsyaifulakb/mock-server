@@ -10,7 +10,7 @@
       },
       "inapplicability_nudge": {
         "content": "Monthly cashback limit will be reset on 23 Sep 2023",
-        "icon": "foodMiniSpotMerchant",
+        "icon": "financeMiniSpotLateFees",
         "cta_icon": "label24Help",
         "dialog_info": {
           "title": "Can't receive cashback now",
