@@ -15,7 +15,7 @@
         "dialog_info": {
           "title": "Can't receive cashback now",
           "sub_title": "You already reached monthly cashback limit of Rp50.000",
-          "illustration": "illustration",
+          "illustration": "financeSpotHeroNewLimitUnlocked",
           "cta_text": "Got it"
         }
       },
