@@ -170,8 +170,7 @@
         ]
       },
       "refetch_promotions_for_methods": [
-        "GOPAY",
-        "PAY_LATER"
+        "GOPAY"
       ]
     }
   },
@@ -184,8 +183,7 @@
         "icon": "https://i-integration.gojekapi.com/darkroom/nearby-cms-id/v2/images/uploads/image/file/564/55869bdb-4679-499c-ad00-b3b47d9a4dd1.png"
       },
       "refetch_promotions_for_methods": [
-        "GOPAY",
-        "PAY_LATER"
+        "GOPAY"
       ]
     }
   }
