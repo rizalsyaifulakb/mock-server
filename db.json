@@ -1,5 +1,5 @@
 {
-  "/v1/promotions/evaluate": {
+  "evaluate": {
     "success": true,
     "data": {
       "title": "Promotion",
@@ -174,7 +174,7 @@
       ]
     }
   },
-  "evaluate": {
+  "evaluate-empty": {
     "success": true,
     "data": {
       "title": "Promotion",
