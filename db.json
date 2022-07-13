@@ -174,7 +174,7 @@
       ]
     }
   },
-  "promotions/evaluate-empty": {
+  "evaluate-empty": {
     "success": true,
     "data": {
       "title": "Promotion",
